@@ -1,0 +1,14 @@
+main {
+    text-align: center;
+}
+
+.tabuleiro div input {
+width: 100px;
+height: 100px;
+margin: 3px;
+border: 1px solid gray;
+border-radius: 6px;
+font-size: 30px;
+cursor: pointer;
+}
+ 

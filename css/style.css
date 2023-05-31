@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(243, 113, 113);
+    background-color: #D18126;
 }
 main {
     text-align: center;
@@ -15,7 +15,16 @@ main {
     cursor: pointer;
 }
 input[type=button]{
-    background-color: rgba(245, 141, 141, 0.591);
+    background-color: #a6661c;
     color: rgb(255, 255, 255);
     font-family: rgb(255, 255, 255);
 }
+
+.velha {
+    position: fixed;
+    height: 600px;
+   transform: scaleX(-1);
+}
+
+
+
